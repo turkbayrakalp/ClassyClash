@@ -7,5 +7,5 @@ The code is mostly here for inspection. To play the game, you have to edit the .
 
 
 Gameplay:
-You can move using the arrow WASD and attack using LEFT-MOUSE-CLICK. There are 2 monsters that follow you and deal damage if they get close. The player can kill them with one attack
+You can move using WASD and attack using LEFT-MOUSE-CLICK. There are 2 monsters that follow you and deal damage if they get close. The player can kill them with one attack
 
